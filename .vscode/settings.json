@@ -1,3 +1,4 @@
 {
-    "prettier.configPath": "/home/ide-plugins/Desktop/tools-plugins"
+    "prettier.configPath": "/home/ide-plugins/Desktop/tools-plugins",
+    "editor.bracketPairColorization.enabled": true
 }

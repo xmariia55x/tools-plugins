@@ -61,7 +61,7 @@ class DoublyLinkedList     {
   
     *[Symbol.iterator]() {
       yield* this.nodes;
-    }
+    } /*TODO: support Maria with this part of the project*/
   }
 const orden = [{ "hello": 2, "world": 3, "eat": 4 }, { "hello": 3, "world": 4, "eat": 5 }];
 const files = [{"file1":"test.js","file2":"test2.js","file3":"test3.js"}];
